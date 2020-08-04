@@ -1,18 +1,18 @@
 Friedplantie
 #Stage 1: input for fried plantain
-3 riped plantain
-2 litres vegetable oil
-1/2 tea spoon salt
-sharp knife
-deep bowl
-fork
-deep fryer
-serving plate
-cooking spoon
-paper towel
-garbage bags
-stove
-tap
+ripe plantain = 3
+vegetable oil = 2 litres
+salt = 1/2 teaspoon
+knife = sharp
+bowl = deep
+fork = 1
+fryer = deep
+serving plate = 1
+cooking spoon = 1
+paper towel = 5 pieces
+garbage bags = 2
+stove =  electric
+water = tap
 #2 Stage 2 - Process
 Get 3 riped plantains from kitchen cabinet and place on floor
 use the sharp knife to peel the plantains 
